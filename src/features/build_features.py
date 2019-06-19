@@ -1,6 +1,3 @@
-
-
-
 from scipy import stats
 
 # Function to remove outliers from X & y 
